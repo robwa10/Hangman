@@ -1,5 +1,5 @@
 # Hangman
-A Simple game of Hangman created to learn Python.
+A Simple game of Hangman to help you learn python.
 
 Some of the features include:
  - Player enters name
